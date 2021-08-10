@@ -9,11 +9,6 @@ body {
   );
 }
 
-.link {
-  margin-bottom: 100px;
-  padding-bottom: -30px;
-}
-
 .weather-app {
   border: 1px solid black;
   padding: 20px;
