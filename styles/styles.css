@@ -1,0 +1,66 @@
+body {
+  padding: 100px 80px 100px 80px;
+  font-family: monospace;
+  background: radial-gradient(
+    666px at 0.4% 48%,
+    rgb(202, 204, 227) 0%,
+    rgb(89, 89, 99) 97.5%
+  );
+}
+
+.datetime {
+  margin-left: 655px;
+}
+.current {
+  position: fixed;
+  right: 0;
+  border: 4px solid black;
+  border-radius: 50%;
+  font-size: 20px;
+  padding: 70px 25px 70px 25px;
+  margin: 30px auto;
+  margin-bottom: 50px;
+  margin-right: 60px;
+  margin-top: 2px;
+}
+.currentdegree {
+  margin-right: 30px;
+}
+.fforecast {
+  font-size: 20px;
+  margin-right: 190px;
+}
+.cloud {
+  text-align: center;
+  margin-left: 80px;
+  margin-right: 80px;
+  font-size: 29px;
+}
+
+.detail {
+  font-size: 20px;
+  list-style: none;
+  position: absolute;
+  left: 0;
+  padding-left: 0;
+  margin-top: 95px;
+  margin-left: 60px;
+}
+
+.local {
+  margin-top: 20px;
+}
+
+h2 {
+  margin-top: 100px;
+  margin-bottom: 70px;
+  text-decoration: underline;
+}
+.future {
+  margin-bottom: 110px;
+}
+.col-md:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: white;
+}
