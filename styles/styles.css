@@ -1,5 +1,4 @@
 body {
-  margin: 8px auto;
   display: block;
   padding: 40px 20px 40px 20px;
   font-family: monospace;
@@ -17,9 +16,9 @@ body {
 
 .weather-app {
   border: 1px solid black;
-  padding: 30px;
+  padding: 20px;
   margin: 50px auto;
-  border-radius: 10 px;
+  border-radius: 10px;
   max-width: 2000px;
 }
 
