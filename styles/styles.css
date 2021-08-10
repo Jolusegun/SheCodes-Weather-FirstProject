@@ -10,14 +10,14 @@ body {
 }
 
 .link {
-  margin-bottom: -30px;
+  margin-bottom: -80px;
   padding-bottom: -30px;
 }
 
 .weather-app {
   border: 1px solid black;
   padding: 20px;
-  padding-bottom: -50px;
+  padding-bottom: 1px;
   margin: 50px auto;
   border-radius: 10px;
   max-width: 2000px;
