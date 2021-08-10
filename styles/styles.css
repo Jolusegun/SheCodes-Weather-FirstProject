@@ -9,9 +9,9 @@ body {
   );
 }
 
-.container {
-  margin-bottom: 30px;
-  padding-bottom: 30px;
+.link {
+  margin-bottom: -30px;
+  padding-bottom: -30px;
 }
 
 .weather-app {
