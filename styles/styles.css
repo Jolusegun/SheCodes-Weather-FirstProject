@@ -11,6 +11,7 @@ body {
 
 .link {
   margin-bottom: 80px;
+  padding: 0;
 }
 
 .weather-app {
