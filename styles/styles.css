@@ -18,7 +18,7 @@ body {
 }
 
 .datetime {
-  margin-left: 557px;
+  margin-left: 457px;
 }
 .current {
   position: fixed;
@@ -30,7 +30,7 @@ body {
   margin: 30px auto;
   margin-bottom: 50px;
   margin-right: 60px;
-  margin-top: 2px;
+  margin-top: 30px;
 }
 .currentdegree {
   margin-right: 30px;
