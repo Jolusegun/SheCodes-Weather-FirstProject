@@ -10,8 +10,8 @@ body {
 }
 
 .link {
-  margin-bottom: 80px;
-  padding: 0;
+  margin-bottom: 10px;
+  padding: 0 auto;
 }
 
 .weather-app {
