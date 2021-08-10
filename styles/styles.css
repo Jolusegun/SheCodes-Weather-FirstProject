@@ -1,4 +1,5 @@
 body {
+  margin: 8px auto;
   display: block;
   padding: 40px 20px 40px 20px;
   font-family: monospace;
@@ -10,7 +11,7 @@ body {
 }
 
 .link {
-  margin-bottom: 200px;
+  margin-top: 200px;
   padding: 0 auto;
 }
 
